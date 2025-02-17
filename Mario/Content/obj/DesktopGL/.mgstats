@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/faye/dev/Mario/Mario/Content/Enemies/Goomba.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Enemies/Goomba.xnb","TextureProcessor","Texture2DContent",884,3157,0.0860821
+"/home/faye/dev/Mario/Mario/Content/Enemies/Koopa.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Enemies/Koopa.xnb","TextureProcessor","Texture2DContent",828,6229,0.0024673
+"/home/faye/dev/Mario/Mario/Content/Enemies/Shell.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Enemies/Shell.xnb","TextureProcessor","Texture2DContent",366,3157,0.0012407
+"/home/faye/dev/Mario/Mario/Content/Items.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Items.xnb","TextureProcessor","Texture2DContent",16565,516181,0.018915
+"/home/faye/dev/Mario/Mario/Content/Mario.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Mario.xnb","TextureProcessor","Texture2DContent",6584,304645,0.0041199
+"/home/faye/dev/Mario/Mario/Content/Tiles.png","/home/faye/dev/Mario/Mario/Content/bin/DesktopGL/Tiles.xnb","TextureProcessor","Texture2DContent",2340,41045,0.0010234
